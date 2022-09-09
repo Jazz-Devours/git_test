@@ -1,3 +1,3 @@
 # git_test
-Looking forward to my learning to code!!
+Looking forward to truly learn to code!!
 Hello Odin!
